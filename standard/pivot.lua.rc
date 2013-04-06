@@ -1,0 +1,155 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=Daily Pivot Signals
+R_Description=Signals crossing of previous day's pivot, support or resistance lines by the Close price of the previous period (or by tick)
+R_PA=Price crossed pivot up
+R_PB=Price crossed pivot down
+R_PR=Price crossed resistance up
+R_PS=Price crossed support down
+
+[rus]
+codepage=1251
+R_Name=Сигналы дневных пивотов
+R_Description=Дает сигнал при пересечении ценой закрытия предыдущего периода (или тиком) пивота предыдущего дня или линии поддержки или сопротивления
+R_PA=Цена пересекла пивот снизу вверх
+R_PB=Цена пересекла пивот сверху вниз
+R_PR=Цена пересекла линию сопротивления снизу вверх
+R_PS=Цена пересекла линию поддержки сверху вниз
+
+[fra]
+codepage=1252
+R_Name=Signaux Pivot journalier
+R_Description=Signale la traversée du pivot du jour précédent, support ou lignes de résistances, par le prix de Clôtyure de la période précédente(ou par tick)
+R_PA=Le prix a traversé le pivot par le haut
+R_PB=Le prix a traversé le pivot par le bas
+R_PR=Le prix a traversé la résistance par le haut
+R_PS=Le prix a traversé la résistance par le haut
+
+[ara]
+codepage=1256
+R_Name=إشارات البيفوت اليومية (Daily Pivot)
+R_Description=الإشارات تتقاطع مع البيفوت من اليوم السابق، خطوط الدعم والمقاومة من خلال سعر الإغلاق للفترة السابقة (أو من خلال التيك)
+R_PA=السعر يتقاطع مع البيفوت من الأعلى
+R_PB=السعر يتقاطع مع البيفوت من الأدنى
+R_PR=السعر يتقاطع مع المقاومة من الأعلى
+R_PS=السعر يتقاطع مع الدعم من الأدنى
+
+[chs]
+codepage=936
+R_Name=每天轴心点信号
+R_Description=信号穿越前一天的轴心点，过去周期图中收市价格的支持线和阻力线（支持点或者阻力点）
+R_PA=价格交差轴心点向上
+R_PB=价格交差轴心点向下
+R_PR=价格交差阻力向上
+R_PS=价格交差支持向下
+
+[cht]
+codepage=950
+R_Name=每天軸心點信號
+R_Description=信號穿越前一天的軸心點，過去週期圖中收市價格的支持線和阻力線（支持點或者阻力點）
+R_PA=價格交差軸心點向上
+R_PB=價格交差軸心點向下
+R_PR=價格交差阻力向上
+R_PS=價格交差支持向下
+
+[esp]
+codepage=1252
+R_Name=Señales diarias de Pivote
+R_Description=Proporciona señales de los cruces de pivote del día anterior, de líneas de soporte o resistencia por el precio de Cierre del periodo anterior (o por tick)
+R_PA=El precio cruzo el pivote por encima
+R_PB=El precio cruzo el pivote por debajo
+R_PR=El precio cruzo la resistencia por encima
+R_PS=El precio cruzo la resistencia por debajo
+
+[heb]
+codepage=1255
+R_Name=איתותי פיבוט יומיים
+R_Description=איתותים מתקבלים כאשר המחיר חוצה את הפיבוט של היום הקודם, קווי התמיכה והתנגדות של מחיר הסגירה של התקופה הקודמת.
+R_PA=המחיר חוצה את הפיבוט כלפי מעלה
+R_PB=המחיר חוצה את הפיבוט כלפי מטה
+R_PR=המחיר חוצה את ההתנגדות כלפי מעלה
+R_PS=המחיר חוצה את התמיכה כלפי מטה
+
+[ita]
+codepage=1252
+R_Name=Segnali Pivot Giornalieri
+R_Description=I segnali dati dall’incrocio di pivot, supporto o resistenza del giorno precedente, con la chusura del prezzo del precedente periodo (o da tick)
+R_PA=Il prezzo incrocia il pivot superiore
+R_PB=Il prezzo incrocia il pivot inferiore
+R_PR=Il prezzo incrocia la resistenza superiore
+R_PS=Il prezzo incrocia il supporto inferiore
+
+[pol]
+codepage=1250
+R_Name=Sygnały dziennych pivot points
+R_Description=Sygnalizuje przecięcie pivotu, linii wsparcia lub oporu z poprzedniego dnia przez cenę zamknięcia z bieżącego okresu (lub przez tick)
+R_PA=Cena przecina pivot w górę
+R_PB=Cena przecina pivot w dół
+R_PR=Cena przecina opór w górę
+R_PS=Cena przecina wsparcie w dół
+
+[tur]
+codepage=1254
+R_Name=Günlük Pivot Sinyalleri
+R_Description=Bir önceki periyodun kapanış fiyatının (ya da tik), bir önceki günün pivot, destek ya da direnç çizgisini kestiği yerde sinyal verir.
+R_PA=Fiyatın pivotu yukarı yönlü kesmesi
+R_PB=Fiyatın pivotu aşağı yönlü kesmesi
+R_PR=Fiyatın direnci yukarı yönlü kesmesi
+R_PS=Fiyatın desteği aşağı yönlü kesmesi
+
+[cze]
+codepage=1250
+R_Name=Pivotní signály
+R_Description=Signály překročení pivotu z předchozího dne, supportu, nebo rezistence závěrečnou cenou předchozí periody
+R_PA=Cena prolomila pivot vzhůru
+R_PB=Cena prolomila pivot dolů
+R_PR=Cena prolomila rezistenci vzhůru
+R_PS=Cena prolomila support dolů
+
+[gre]
+codepage=1253
+R_Name=Καθημερινά Σήματα Pivot
+R_Description=Σήμα διασταύρωσης του pivot της προηγούμενης ημέρας, στήριξης ή αντίστασης, με την τιμή Κλεισίματος της προηγούμενης περιόδου (ή από το tick)
+R_PA=Υπέρβαση τιμής του πάνω σημείου pivot
+R_PB=Υπέρβαση τιμής του κάτω σημείου pivot
+R_PR=Υπέρβαση τιμής του πάνω σημείου αντίστασης
+R_PS=Υπέρβαση τιμής του κάτω σημείου στήριξης
+
+[jpn]
+codepage=932
+R_Name=デイリー・ピボット・シグナルズ
+R_Description=直前の期間（もしくはティック）のクローズプライスが前日のピボット、支持線及び抵抗線を越えた時にシグナルを発します。
+R_PA=レートがピボットを上に越えました
+R_PB=レートがピボットを下に越えました
+R_PR=レートが抵抗線を上に越えました
+R_PS=レートが支持線を下に越えました
+
+[por]
+codepage=1252
+R_Name=Sinais Diários de Pivot
+R_Description=Sinaliza o cruzamento do pivot do dia anterior, linhas de suporte e resistência pelo preço do período anterior (ou por tick)
+R_PA=Preço cruzou pivot para cima
+R_PB=Preço cruzou pivot para baixo
+R_PR=Preço cruzou resistência para cima
+R_PS=Preço cruzou resistência para baixo
+
+[deu]
+codepage=1252
+R_Name=Tägliche Pivot-Signale
+R_Description=Signale die sich aufgrund des Schlusspreises der vorherigen Periode Pivote, Support-, oder Resistanzlinien getroffen haben.
+R_PA=Preis ueberquerte das obige Pivot
+R_PB=Preis ueberquerte das untere Pivot
+R_PR=Preis ueberquerte die obige Resistenz
+R_PS=Preis ueberquerte die untere Resistenz
+
+[hun]
+codepage=0
+R_Name=Napi Pivot jelzések
+R_Description=Jelzések, melyek áttörik az  előző napi meghatározó pontokat pivotoka), támasz vagy ellenállás vonalakat
+R_PA=Az árfolyam alulról metszi a Pivot pontot
+R_PB=Az árfolyam felülről metszi a Pivot pontot
+R_PR=Az árfolyam alulról metszi az ellenállást
+R_PS=Az árfolyam felülről metszi a támasz szintet
+

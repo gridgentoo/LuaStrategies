@@ -1,0 +1,104 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=CCI Signals
+R_Description=Signals BUY when CCI crosses up through the 100% level and SELL when it crosses down through the -100% level
+R_CCIN=Number of periods
+
+[rus]
+codepage=1251
+R_Name=Сигналы CCI
+R_Description=Дает сигнал на покупку, когда CCI пересекает уровень 100% снизу вверх, и сигнал на продажу, когда CCI пересекает уровень -100% сверху вниз
+R_CCIN=Количество периодов
+
+[fra]
+codepage=1252
+R_Name=Signaux CCI
+R_Description=Signale ACHAT lorsque le CCI se dirige vers le niveau 100% et VENTE lorsq'il se dirige vers le niveau -100%
+R_CCIN=Nombre de périodes
+
+[ara]
+codepage=1256
+R_Name=إشارات قناة السلع (CCI)
+R_Description=اشارات شراء عندما يتقاطع CCI فوق مستوى 100% وإشارات بيع عندما يتقاطع مؤشر CCI تحت مستوى -100%
+R_CCIN=عدد الفترات
+
+[chs]
+codepage=936
+R_Name=CCI 信号
+R_Description=当CCI向上穿越100%水平产生买进信号, 当CCI向下穿越-100水平产生卖出信号
+R_CCIN=时期
+
+[cht]
+codepage=950
+R_Name=CCI 信號
+R_Description=當CCI向上穿越100%水平產生買進信號, 當CCI向下穿越-100水平產生賣出信號
+R_CCIN=時期
+
+[esp]
+codepage=1252
+R_Name=Señales de CCI
+R_Description=Proporciona una señal de COMPRA cuando el CCI cruza por encima del nivel de 100% y proporciona una señal de VENTA cuando cruza por debajo del nivel de -100%.
+R_CCIN=Numero de periodos
+
+[heb]
+codepage=1255
+R_Name=איתותי CCI
+R_Description=איתות קנייה כאשר ה-CCI חוצה מעל רמת 100% ואיתות מכירה כאשר ה-CCI חוצה מתחת לרמת 100%-.
+R_CCIN=מספר תקופות
+
+[ita]
+codepage=1252
+R_Name=Segnali CCI
+R_Description=Segnali BUY quando CCI incrocia a rialzo il livello 100% e SELL quando incrocia a ribasso il livello 100%
+R_CCIN=Numero di periodi
+
+[pol]
+codepage=1250
+R_Name=Sygnały CCI
+R_Description=Sygnał KUPUJ kiedy CCI przecina w górę poziom 100% i sygnał SPRZEDAJ, kiedy CCI przecina w dół poziom -100%
+R_CCIN=Ilość okresów
+
+[tur]
+codepage=1254
+R_Name=CCI Sinyalleri
+R_Description=CCI %100 seviyesini yukarı yönlü keserse ALIŞ, -%100 seviyesini aşağı yönlü keserse SATIŞ sinyali verir.
+R_CCIN=Periyot sayısı
+
+[cze]
+codepage=1250
+R_Name=CCI signály
+R_Description=Signály KOUPIT, když CCI prolomí horní 100% úroveň směrem nahoru a PRODAT, když prolomí spodní -100% úroveň směrem dolů.
+R_CCIN=Počet period
+
+[gre]
+codepage=1253
+R_Name=Σήματα CCI
+R_Description=Σήμα ΑΓΟΡΑΣ όταν ο CCI υπερβεί ανοδικά το επίπεδο 100% και ΠΩΛΗΣΗΣ όταν υπερβεί καθοδικά το επίπεδο 100%
+R_CCIN=Αριθμός Περιόδων
+
+[jpn]
+codepage=932
+R_Name=CCIシグナル
+R_Description=CCIが100%レベルを上に越えた時に買いシグナルを発し、-100%レベルを下に越えた時に売りシグナルを発します
+R_CCIN=期間の数
+
+[por]
+codepage=1252
+R_Name=Sinais CCI
+R_Description=Sinaliza para COMPRAR quando CCI cruza por cima pelo nível 100% e VENDER quando o CCI cruza por baixo pelo nível -100%
+R_CCIN=Número de Períodos
+
+[deu]
+codepage=1252
+R_Name=CCI Signale
+R_Description=Zeigt KAUFEN wenn CCI die Schwelle von 100% durchquert und VERKAUFEN wenn CCI unter die 100% Schwelle faellt.
+R_CCIN=Zahl der Periode
+
+[hun]
+codepage=0
+R_Name=CCI Szignálok
+R_Description=Vételi jelzés ha a CCI alulról metszi a 100%-os szintet, Eladási jelzés ha felülről metszi a -100%-os szintet
+R_CCIN=Periódusok száma
+

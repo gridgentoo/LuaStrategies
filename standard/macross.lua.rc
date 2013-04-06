@@ -1,0 +1,138 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=MA Cross
+R_Description=Signals SELL when the Fast MA crosses down the Slow MA and BUY when the Slow MA crosses down the Fast MA
+R_FastN=Fast MA periods
+R_SlowN=Slow MA periods
+R_MvaParamError=Number of periods for Fast MA must be less than number of periods for Slow MA
+
+[rus]
+codepage=1251
+R_Name=Пересечение скользящих средних
+R_Description=Дает сигнал на покупку, когда быстрое скользящее среднее пересекает сверху вниз медленное скользящее среднее, и сигнал на продажу, когда медленное скользящее среднее пересекает сверху вниз быстрое скользящее среднее
+R_FastN=Количество периодов для быстрого скользящего среднего
+R_SlowN=Количество периодов для медленного скользящего среднего
+R_MvaParamError=Количество периодов для быстрого скользящего среднего должно быть меньше, чем для медленного скользящего среднего
+
+[fra]
+codepage=1252
+R_Name=Croisement MA
+R_Description=Signale VENTE lorsque la MA rapide croise par le bas la MA lente et ACHAT lorsque la MA lente croise par le bas la MA rapide
+R_FastN=Périodes MA rapide
+R_SlowN=Périodes MA lente
+R_MvaParamError=Le nombre de périodes pour la MA rapide doit être inférieur au nombre de périodes pour la MA lente
+
+[ara]
+codepage=1256
+R_Name=إشارة ام اي كروس (MA Cross)
+R_Description=إشارات للبيع عندما يتقاطع MA السريع تحت MA البيطيء وإشارات شراء عندما يتقاطع MA البطيء تحت MA السريع
+R_FastN=فترات MA السريع
+R_SlowN=فترات MA البطيء
+R_MvaParamError=عدد فترات MA السريع يجب أن تكون أقل من عدد فترات MA البطيء
+
+[chs]
+codepage=936
+R_Name=平均线交差
+R_Description=当快平均线穿越慢平均线产生卖出信号及当慢平均线穿越快平均线产生买进信号
+R_FastN=快平均线周期
+R_SlowN=慢平均线周期
+R_MvaParamError=快平均线周期必须少于慢平均线周期
+
+[cht]
+codepage=950
+R_Name=平均線交差
+R_Description=當快平均線穿越慢平均線產生賣出信號及當慢平均線穿越快平均線產生買進信號
+R_FastN=快平均線週期
+R_SlowN=慢平均線週期
+R_MvaParamError=快平均線週期必須少於慢平均線週期
+
+[esp]
+codepage=1252
+R_Name=Cruce de MA
+R_Description=Proporciona una señal de VENTA cuando el MA rápido cruza por debajo del MA lento y de COMPRA cuando el MA lento cruza por debajo el MA rápido.
+R_FastN=Periodos del MA rápido
+R_SlowN=Periodos del MA lento
+R_MvaParamError=El numero de periodos para el MA rápido debe ser menor que el numero de periodos del MA lento.
+
+[heb]
+codepage=1255
+R_Name=חציית MA
+R_Description=איתות מכירה כאשר ה-MA המהיר חוצה כלפי מטה את ה-MA האיטי, ואיתות קנייה כאשר ה-MA האיטי חוצה את ה-MA המהיר
+R_FastN=תקופות MA מהיר
+R_SlowN=תקופות MA איטי
+R_MvaParamError=מספר התקופות עבור ה-MA המהיר חייב להיות נמוך ממספר התקופות עבור ה-MA האיטי
+
+[ita]
+codepage=1252
+R_Name=Incrocio MA
+R_Description=Segnali SELL quando la MA veloce incrocia a ribasso la MA lenta e BUY quando la MA lenta incrocia a ribasso la MA veloce
+R_FastN=Periodi MA veloce
+R_SlowN=Periodi MA lenta
+R_MvaParamError=Il numero di periodi della MA veloce deve essere inferiore al numero di periodi della MA lenta
+
+[pol]
+codepage=1250
+R_Name=Przecięcia średnich kroczących
+R_Description=Sygnał SPRZEDAJ kiedy szybka średnia przecina w dół średnią wolną i sygnał KUPUJ kiedy szybka średnia przecina średnią wolną w górę
+R_FastN=Liczba okresów szybkiej średniej
+R_SlowN=Liczba okresów wolnej średniej
+R_MvaParamError=Liczba okresów dla szybkiej średniej musi być mniejsza, niż liczba okresów dla wolnej średniej
+
+[tur]
+codepage=1254
+R_Name=HO kesişimi
+R_Description=Hızlı HO, Yavaş HO'yı aşağı doğru kestiğinde SATIŞ, Yavaş HO, Hızlı HO'yı aşağı yönlü kestiğinde ALIŞ sinyali verir.
+R_FastN=Hızlı HO periyodu
+R_SlowN=Yavaş HO periyodu
+R_MvaParamError=Hızlı HO periyot sayısı, Yavaş HO periyot sayısından daha küçük olmalı.
+
+[cze]
+codepage=1250
+R_Name=Protnutí klouzavých průměrů
+R_Description=Signál PRODEJ, pokud rychlý klouzavý průměr protnul dolů pomalý klouzavý průměr. Signál NÁKUP, pokud pomalý klouzavý průměr protnul dolů rychlý klouzavý průměr.
+R_FastN=Perioda rychlého klouzavého průměru
+R_SlowN=Perioda pomalého klozavého průměru
+R_MvaParamError=Počet period pro rychlý klouzavý průměr musí být nižší než počet period pro pomalý klouzavý průměr
+
+[gre]
+codepage=1253
+R_Name=Διασταύρωση ΚΜΟ
+R_Description=Σήμα ΠΩΛΗΣΗΣ όταν ο γρήγορος ΚΜΟ διασταυρώσει καθοδικά τον αργό ΚΜΟ και ΑΓΟΡΑΣ όταν ο αργός ΚΜΟ διασταυρώσει καθοδικά τον γρήγορο ΚΜΟ
+R_FastN=Περίοδοι γρήγορου ΚΜΟ
+R_SlowN=Περίοδοι αργού ΚΜΟ
+R_MvaParamError=Ο αριθμός περιόδων για τον γρήγορο ΚΜΟ πρέπει να είναι μικρότερος από τν αριθμό περιόδων για τον αργό ΚΜΟ
+
+[jpn]
+codepage=932
+R_Name=移動平均線クロス
+R_Description=高速移動平均線が低速移動平均線を下に越えた時に売りシグナルを発し、低速移動平均線が高速移動平均線を下に越えた時に買いシグナルを発します
+R_FastN=短期移動平均線の期間
+R_SlowN=長期移動平均線の期間
+R_MvaParamError=長期移動平均線の期間の数は低速移動平均線の期間の数より少なくなければなりません
+
+[por]
+codepage=1252
+R_Name=Cruzamento Média-Móvel
+R_Description=Sinaliza para VENDER quando o a Média Móvel Rápida cruza por baixo da MM Lenta e COMPRAR quando a MM Lenta cruza por baixo da MM Rápida
+R_FastN=Períodos da MM Rápida
+R_SlowN=Períodos da MM Lenta
+R_MvaParamError=Numero de períodos para a Média Móvel Rapida deve ser menor que o numero de períodos para a Média Móvel Lenta.
+
+[deu]
+codepage=1252
+R_Name=MA Kreuzung
+R_Description=Zeigt KAUFEN wenn Fast MA sich das Slow MA trifft und VERKAUFEN wenn Slow MA sich das Fast MA trifft.
+R_FastN=Zeitintervall des schnellen gleitenden Durchschnitt
+R_SlowN=Zeitintervall des langsamen gleitenden Durchschnitt
+R_MvaParamError=Anzahl an Zeitintervallen für den schnellen gleitenden Durchschnitt muss kleiner sein als der Zeitintervall für den langsamen gleitenden Durchschnitt
+
+[hun]
+codepage=0
+R_Name=Mozgóátlagok kereszteződése
+R_Description=Vételi jelzés ha a gyors mozgóátlag alulról metszi a lassú mozgóátlagot, Eladási jelzés ha a gyors mozgóátlag felülről metszi a lassú mozgóátlagot
+R_FastN=Gyorsa mozgóátlag periódusa
+R_SlowN=Lassú mozgóátlag periódusa
+R_MvaParamError=A gyorsa mozgóátlag periódusának kisebbnek kell lennie, mint a lassú mozgóátlag periódusainak!
+

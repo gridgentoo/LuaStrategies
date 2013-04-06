@@ -1,0 +1,138 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=RSI Signals
+R_Description=Signals BUY when RSI crosses over the oversold level and SELL when it crosses under the overbought level
+R_RSIN=RSI periods
+R_OB=Overbought level
+R_OS=Oversold level
+
+[rus]
+codepage=1251
+R_Name=Сигналы RSI
+R_Description=Дает сигнал на покупку, когда RSI пересекает уровень перепроданности, и на продажу, когда RSI пересекает уровень перекупленности
+R_RSIN=Количество периодов для RSI
+R_OB=Уровень перепроданности
+R_OS=Уровень перекупленности
+
+[fra]
+codepage=1252
+R_Name=Signaux RSI
+R_Description=Signale ACHAT quand le RSI traverse le seuil de survente et VENTE lorsque le RSI traverse le seuil de surachat
+R_RSIN=Périodes RSI
+R_OB=Seuil de surachat
+R_OS=Seuil de survente
+
+[ara]
+codepage=1256
+R_Name=إشارات مؤشر القوة النسبية (RSI)
+R_Description=اشارات شراء عند يتقاطع مؤشر القوة النسبية RSI فوق مستوى الزيادة في البيع وإشارات بيع عندما يتتقاطع هذا المؤشر تحت مستوى الزياة في الشراء
+R_RSIN=فترات مؤشر القوة النسبية RSI
+R_OB=مستوى زيادة الشراء
+R_OS=مستوى زيادة البيع
+
+[chs]
+codepage=936
+R_Name=RSI信号
+R_Description=当RSI在超卖水平向上交叉时候产生买入信号，当RSI在超买水平向下交叉时候产生卖出信号
+R_RSIN=RSI周期
+R_OB=超买水平
+R_OS=超卖水平
+
+[cht]
+codepage=950
+R_Name=RSI信號
+R_Description=當RSI在超賣水平向上交叉時候產生買入信號，當RSI在超買水平向下交叉時候產生賣出信號
+R_RSIN=RSI週期
+R_OB=超買水平
+R_OS=超賣水平
+
+[esp]
+codepage=1252
+R_Name=Señales de RSI
+R_Description=Proporciona una señal de COMPRA cuando el RSI cruza el nivel de sobreventa y de VENTA cuando cruza el nivel de sobrecompra.
+R_RSIN=Periodos del RSI
+R_OB=Nivel de sobrecompra
+R_OS=Nivel de sobreventa
+
+[heb]
+codepage=1255
+R_Name=איתותי RSI
+R_Description=איתות מכירה כאשר ה-RSI חוצה את קניית היתר, ואיתות קנייה כאשר ה-RSI חוצה את מכירת היתר
+R_RSIN=תקופות RSI
+R_OB=רמת קניית יתר
+R_OS=רמת מכירת יתר
+
+[ita]
+codepage=1252
+R_Name=Segnali RSI
+R_Description=Segnali Buy quando RSI incrocia il livello di ipervenduto e BUY quando RSI incrocia il livello di ipercomprato
+R_RSIN=RSI periodi
+R_OB=Livello ipercomprato
+R_OS=Livello ipervenduto
+
+[pol]
+codepage=1250
+R_Name=Sygnały RSI
+R_Description=Sygnał KUPUJ kiedy RSI opuszcza strefę wyprzedania i sygnał SPRZEDAJ kiedy RSI opuszcza strefę wykupienia
+R_RSIN=Liczba okresów RSI
+R_OB=Poziom wykupienia
+R_OS=Poziom wyprzedania
+
+[tur]
+codepage=1254
+R_Name=RSI Sinyalleri
+R_Description=RSI aşırı satış seviyesini kestiğinde ALIŞ, stokastik aşırı alım seviyesini kestiğinde SATIŞ sinyali verir.
+R_RSIN=RSI periyodu
+R_OB=Aşırı alım seviyesi
+R_OS=Aşırı satış seviyesi
+
+[cze]
+codepage=1250
+R_Name=Signál RSI
+R_Description=Signály KOUPIT když RSI prolomí hranici přeprodání a PRODAT když prolomí hranici překoupení.
+R_RSIN=Periody RSI
+R_OB=Hranice překoupení
+R_OS=Hranice přeprodání
+
+[gre]
+codepage=1253
+R_Name=Σήματα RSI
+R_Description=Σήμα ΑΓΟΡΑΣ όταν ο RSI κινηθεί πάνω από το υπερπουλημένο επίπεδο και πώλησης όταν κινηθεί κάτω από το υπεραγορασμένο επίπεδο
+R_RSIN=Περίοδοι RSI
+R_OB=Υπεραγορασμένο επίπεδο
+R_OS=Υπερπουλημένο επίπεδο
+
+[jpn]
+codepage=932
+R_Name=RSIシグナル
+R_Description=RSIが売られすぎのレベルを越えた時に買いシグナルを発し、RSIが買われすぎのレベルを越えた時に売りシグナルを発します
+R_RSIN=RSIの期間
+R_OB=買われすぎレベル
+R_OS=売られすぎレベル
+
+[por]
+codepage=1252
+R_Name=Sinais RSI
+R_Description=Sinaliza COMPRAR quando o RSI cruza o nível sobrecomprado e VENDER quando o RSI cruza o nível sobrevendido
+R_RSIN=Períodos RSI
+R_OB=Nível sobrecomprado
+R_OS=Nível sobrevendido
+
+[deu]
+codepage=1252
+R_Name=RSI Signale
+R_Description=Zeigt KAUFEN wenn RSI sich das Verkaufwertsniveau trifft und VERKAUFEN wenn RSI sich das Kaufswertsniveau trifft.
+R_RSIN=RSI Periode
+R_OB=Kaufswertsniveau
+R_OS=Verkaufswertsniveau
+
+[hun]
+codepage=0
+R_Name=RSI Szignál
+R_Description=Vételi jelzés ha az RSI alulról metszi a túlvett szintet, Eladási jelzés ha az RSI felülről metszi a túladott szintet.
+R_RSIN=RSI periódusok
+R_OB=Túlvett szint
+R_OS=Túladott szint
+

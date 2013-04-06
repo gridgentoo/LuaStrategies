@@ -1,0 +1,121 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=Watch for Trade
+R_Description=Monitors the specified trade and triggers an alert when the trade is closed.
+R_Trade=Choose trade
+R_MSG=Trade is closed
+
+[rus]
+codepage=1251
+R_Name=Отслеживание сделки
+R_Description=Отслеживает указанную сделку и дает сигнал, когда эта сделка закрывается.
+R_Trade=Выберите сделку
+R_MSG=Позиция закрыта
+
+[ara]
+codepage=1256
+R_Name=مراقبة التداول (Watch for Trade)
+R_Description=يراقب التداول الذي تحدده ويعطي تنبيهاً عندما يتم إغلاق الأمر
+R_Trade=اختيار التداول
+R_MSG=التداول مغلق
+
+[chs]
+codepage=936
+R_Name=监察交易
+R_Description=监察当指定交易被平仓及触发提示
+R_Trade=选择交易
+R_MSG=交易已平仓
+
+[cht]
+codepage=950
+R_Name=監察交易
+R_Description=監察當指定交易被平倉及觸發提示
+R_Trade=選擇交易
+R_MSG=交易已平倉
+
+[cze]
+codepage=1250
+R_Name=Sleduj obchod
+R_Description=Monitoruje konkrétní obchod a spouští alert, když je obchod uzavřen.
+R_Trade=Zvolit obchod
+R_MSG=Obchod je uzavřen
+
+[esp]
+codepage=1252
+R_Name=Alerta para futura operación
+R_Description=Monitorea la operacion especificada y genera alertas cuando la orden es cerrada
+R_Trade=Seleccionar orden
+R_MSG=Operación cerrada
+
+[fra]
+codepage=1252
+R_Name=Surveiller pour trade
+R_Description=Suit le trade spécifié et déclenche une alerte lorsque le trade est exécuté
+R_Trade=Choisir trade
+R_MSG=Le trade est fermé
+
+[gre]
+codepage=1253
+R_Name=Παρακολούθηση συναλλαγής
+R_Description=Παρακολουθεί τη συγκεκριμένη συναλλαγή και ενεργοποιεί μία ειδοποίηση όταν η συναλλαγή έχει κλείσει.
+R_Trade=Επιλέξτε συναλλαγή
+R_MSG=Η συναλλαγή έχει κλείσει
+
+[pol]
+codepage=1250
+R_Name=Watch for Trade
+R_Description=Monitors the specified trade and triggers an alert when the trade is closed.
+R_Trade=Wybierz zlecenie
+R_MSG=Handel jest niedostępny
+
+[por]
+codepage=1252
+R_Name=Vigiar Operação
+R_Description=Monitora a ordem especificada e ativa uma alerta quando a ordem é executada.
+R_Trade=Selecionar ordem
+R_MSG=Operação está fechada
+
+[tur]
+codepage=1254
+R_Name=İşlemi izle
+R_Description=Belirtilen işlemi izler ve işlem kapatıldığında uyarı verilir.
+R_Trade=İşlem seç
+R_MSG=İşlem kapatıldı.
+
+[ita]
+codepage=1252
+R_Name=Osserva operazione
+R_Description=Osserva la posizione specificata e attiva un alert quando è chiusa.
+R_Trade=Seleziona operazione
+R_MSG=Operazione chiusa
+
+[heb]
+codepage=1255
+R_Name=עקוב אחר טרייד
+R_Description=עוקב אחר עסקה ושולח התראה כאשר העסקה נסגרת.
+R_Trade=בחר עסקה
+R_MSG=העסקה נסגרה
+
+[deu]
+codepage=1252
+R_Name=Achten Sie auf den Trade
+R_Description=Überwacht den vorgegebenen Trade und löst einen Alarm aus wenn der Trade geschlossen ist.
+R_Trade=Trade auswählen
+R_MSG=Der Trade ist geschlossen.
+
+[jpn]
+codepage=932
+R_Name=ウォッチ・トレード
+R_Description=指定したポジションをモニターし、決済されたらアラートを発します。
+R_Trade=取引を選択
+R_MSG=取引は決済されました。
+
+[hun]
+codepage=0
+R_Name=Kötés figyelése
+R_Description=Figyeli a kiválasztott kötést és jelez ha a megbízást zárták.
+R_Trade=Válasszon megbízást
+R_MSG=Megbízás végrehajtva
+

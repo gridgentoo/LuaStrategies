@@ -1,0 +1,104 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=Key Reversal
+R_Description=Signals BUY when the Low is the lowest Low of the last N periods and the Close is higher than the previous Close; signals SELL when the High is the highest High of the last N periods and the Close is lower than the previous Close
+R_N=Number of periods
+
+[rus]
+codepage=1251
+R_Name=Ключевые развороты
+R_Description=Дает сигнал на покупку при минимальной цене за последние N периодов и растущей цене закрытия; дает сигнал на продажу при максимальной цене за последние N периодов и падающей цене закрытия
+R_N=Количество периодов
+
+[fra]
+codepage=1252
+R_Name=Inversion clé
+R_Description=Signale ACHAT quand le bas est le plus bas des dernières N périodes et la fermeture est supérieure à la précédente cloture; Signale VENTE lorsque le plus haut est le sommet des dernières N périodes et la fermeture est inférieure à la précédente clôture.
+R_N=Nombre de périodes
+
+[ara]
+codepage=1256
+R_Name=إشارة المفتاح العكسي (Key Reversal)
+R_Description=إشارات شراء عندما يكون السعر الأدنى هو اقل أدنى سعر لفترات "N" السابقة وسعر الإغلاق أعلى من الإغلاق للمرحلة السابقة. إشارات بيع عندما يكون السعر الأعلى هو اكثر أعلى سعر لفترات "N" السابقة وسعر الإغلاق أقل من الإغلاق للمرحلة السابقة
+R_N=عدد الفترات
+
+[chs]
+codepage=936
+R_Name=重要转向
+R_Description=当低位是以往N周期的最低位及收盘价高于前收盘价买进信号就会产生; 当高位是以往N周期的最高低及收盘价低于前收盘价卖出信号就会产生
+R_N=时期
+
+[cht]
+codepage=950
+R_Name=重要轉向
+R_Description=當低位是以往N週期的最低位及收盤價高於前收盤價買進信號就會產生; 當高位是以往N週期的最高低及收盤價低於前收盤價賣出信號就會產生
+R_N=時期
+
+[esp]
+codepage=1252
+R_Name=Reverso fundamental
+R_Description=Proporciona una señal de COMPRA cuando el Bajo es el Bajo máximo de los últimos periodos N y el Cierre es mas alto que el cierre anterior; Proporciona una señal de VENTA cuando el Alto es el alto máximo de los últimos periodos N y el Cierre es mas bajo que el cierre anterior
+R_N=Numero de periodos
+
+[heb]
+codepage=1255
+R_Name=מפנה משמעותי
+R_Description=איתות קנייה כאשר השפל הוא השפל הנמוך ביותר ב-N תקופות והנעילה גבוהה יותר מהנעילה הקודמת, ואיתות מכירה כאשר השיא הוא השיא הגבוה ביותר ב-N תקופות והנעילה נמוכה יותר מהנעיל הקודמת.
+R_N=מספר תקופות
+
+[ita]
+codepage=1252
+R_Name=Key Reversal
+R_Description=Segnali BUY quando il minimo è il minimo è l’inferiore degli ultimi N periodi e la chiusura è superiore alla precedente chiusura; segnali SELL quando il massimo è il superiore degli ultimi N periodi e la chiusura è inferiore alla precedente chiusura
+R_N=Numero di periodi
+
+[pol]
+codepage=1250
+R_Name=Key Reversal
+R_Description=Sygnał KUPUJ kiedy bieżące minimum jest najniższym minimum w ostatnich N okresach i bieżące zamknięcie jest wyższe od poprzedniego zamknięcia; sygnał SPRZEDAJ kiedy bieżące maksimum jest najwyższym maksimum w ostatnich N okresach i bieżące zamknięcie jest niższe od poprzedniego zamknięcia
+R_N=Ilość okresów
+
+[tur]
+codepage=1254
+R_Name=HO Kesişimi
+R_Description=En Düşük fiyat son N periyodun en düşük değeriyse ve Kapanış fiyatı bir önceki mumun kapanış fiyatından büyükse ALIŞ, En Yüksek fiyat son N periyodun en yüksek değeriyse ve Kapanış fiyatı bir önceki mumun kapanış fiyatından küçükse SATIŞ sinyali verir.
+R_N=Periyot sayısı
+
+[cze]
+codepage=1250
+R_Name=Klíčový obrat
+R_Description=Signál KOUPIT když minimum je nejnižším minimem za posledních N period a závěrečná cena je vyšší než předchozí závěrečná cena; signál PRODAT když maximum je nejvyšším maximem za posledních N period a závěrečná cena je nižší než předchozí závěrečná cena.
+R_N=Počet period
+
+[gre]
+codepage=1253
+R_Name=Σήμα Αντιστροφής
+R_Description=Σήμα ΑΓΟΡΑΣ όταν το Χαμηλό είναι το χαμηλότερο Χαμηλό των τελευταίων Ν περιόδων και το Κλείσιμο είναι ψηλότερο από το προηγούμενο Κλείσιμο; Σήμα ΠΩΛΗΣΗΣ όταν το Υψηλό είναι το υψηλότερο Υψηλό των τελευταίων Ν περιόδων και το Κλείσιμο είναι χαμηλότερο από το προηγούμενο Κλείσιμο
+R_N=Αριθμός Περιόδων
+
+[jpn]
+codepage=932
+R_Name=キー･リバーサル
+R_Description=安値が最後のN期間の最安値かつクローズが直前のクローズレートよりも高い時に買いシグナルを発し、高値が最後のN期間の最高値かつクローズが直前のクローズレートよりも低いときに売りシグナルを発します
+R_N=期間の数
+
+[por]
+codepage=1252
+R_Name=Reversão Chave
+R_Description=Sinaliza para COMPRAR quando o Baixo é o mais baixo dos últimos N períodos e o Fechamento é o mais alto do que o Fechamento anterior; sinaliza VENDER quando o Alto é o mais alto dos últimos N períodos e o Fechamento é mais baixo que o Fechamento anterior
+R_N=Número de Períodos
+
+[deu]
+codepage=1252
+R_Name=Hauptwende
+R_Description=Zeigt KAUFEN wenn der wenigste Preis dem Nadir der letzten N Perioden entspricht und der Schlusspreis sich hoeher als der vorherige Schluss befindet; zeigt VERKAUFEN wenn der Hochpreis dem Gipfelpunkt der letzten N Perioden entspricht und der Schlusspreis sich weniger als der vorherige Schluss befindet.
+R_N=Anzahl der Perioden
+
+[hun]
+codepage=0
+R_Name=Fordulópont
+R_Description=VÉTELI szignált kapunk, ha az ár alacsonyabb, mint az N periódus legalacsonyabb ára, és a Záró ár magasabb az előző Záró árnál; ELADÁSI szignált kapunk, ha az ár magasabb, mint az N periódus legmagasabb ára és a Záró ár alacsonyabb az előző Záró árnál
+R_N=Periódusok száma
+

@@ -1,0 +1,138 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=MACD Signals
+R_Description=Signals BUY when MACD crosses over the Signal line and SELL when MACD crosses under the Signal line
+R_SN=Short EMA periods
+R_LN=Long EMA periods
+R_IN=Signal line periods
+
+[rus]
+codepage=1251
+R_Name=Сигналы MACD
+R_Description=Дает сигнал на покупку, когда MACD пересекает сигнальную линию снизу вверх, и на продажу, когда MACD пересекает сигнальную линию сверху вниз
+R_SN=Периоды для быстрого EMA
+R_LN=Периоды для медленного EMA
+R_IN=Периоды для сигнальной линии
+
+[fra]
+codepage=1252
+R_Name=Signaux MACD
+R_Description=Signale ACHAT quand le MACD passe au dessus de la ligne de Signal et VENTE lorsque le MACD passe sous la ligne de Signal.
+R_SN=Périodes EMA courte
+R_LN=Périodes EMA longue
+R_IN=Périodes ligne de signal
+
+[ara]
+codepage=1256
+R_Name=إشارات المعدل المتحرك للتقارب/للانحراف (MACD)
+R_Description=اشارات شراء عندما يتقاطع الـ MACD فوق خط الإشاراة وإشارات بيع عند يتقاطع الـ MACD تحت خط الإشارة
+R_SN=فترات معدل المتوسط المتحرك المضاعف (EMA) للبيع
+R_LN=فترات معدل المتوسط المتحرك المضاعف (EMA) للشراء
+R_IN=فترات خط الإشارة
+
+[chs]
+codepage=936
+R_Name=MACD信号
+R_Description=当MACD向上穿越信号线产生买进信号及当MACD向下穿越信号线产生卖出信号
+R_SN=短EMA周期
+R_LN=长EMA周期
+R_IN=信号线周期
+
+[cht]
+codepage=950
+R_Name=MACD信號
+R_Description=當MACD向上穿越信號線產生買進信號及當MACD向下穿越信號線產生賣出信號
+R_SN=短EMA週期
+R_LN=長EMA週期
+R_IN=信號線週期
+
+[esp]
+codepage=1252
+R_Name=Señales de MACD
+R_Description=Proporciona una señal de COMPRA cuando el MACD cruza por encima de la línea de Señal y de VENTA cuando el MACD por debajo de la línea de Señal.
+R_SN=Periodos de EMA corto
+R_LN=Periodos de EMA largo
+R_IN=Periodos de la línea de Señal
+
+[heb]
+codepage=1255
+R_Name=איתותי MACD
+R_Description=איתותי קנייה כאשר קו ה-MACD חוצה כלפי מעלה את קו האיתות ואיתותי מכירה כאשר קו ה-MACD חוצה כלפי מטה מתחת לקו האיתות
+R_SN=תקופות EMA קצר
+R_LN=תקופות EMA ארוך
+R_IN=תקופות קו איתות
+
+[ita]
+codepage=1252
+R_Name=Segnali MACD
+R_Description=Segnali BUY quando MACD incrocia sopra la linea Segnale e SELL quando MACD incrocia sotto la linea Segnale
+R_SN=Periodi EMA breve
+R_LN=Periodi EMA lunga
+R_IN=Periodi linea segnale
+
+[pol]
+codepage=1250
+R_Name=Sygnały MACD
+R_Description=Sygnał KUPUJ kiedy linia MACD przecina w górę linię Signal i sygnał SPRZEDAJ kiedy linia MACD przecina linię Signal w dół
+R_SN=Liczba okresów krótkiej EMA
+R_LN=Liczba okresów długiej EMA
+R_IN=Liczba okresów linii Signal
+
+[tur]
+codepage=1254
+R_Name=MACD Sinyalleri
+R_Description=MACD sinyal çizgisini yukarı yönlü kestiğinde ALIŞ, MACD sinyal çizgisini aşağı yönlü kestiğinde SATIŞ sinyali verir.
+R_SN=Kısa EMA periyodu
+R_LN=Uzun EMA periyodu
+R_IN=Sinyal çizgisi periyodu
+
+[cze]
+codepage=1250
+R_Name=Signály MACD
+R_Description=Signály NÁKUP když se MACD dostane přes signální linku a PRODEJ když se MACD dostane pod signální linku
+R_SN=Perioda krátkého exponenciálního klouzavého průměru
+R_LN=Perioda dlouhého exponenciálního klouzavého průměru
+R_IN=Periody signální linky
+
+[gre]
+codepage=1253
+R_Name=Σήμα MACD
+R_Description=Σήμα ΑΓΟΡΑΣ όταν ο MACD υπερβεί ανοδικά την γραμμή Σήματος και ΠΩΛΗΣΗΣ όταν ο MACD υπερβεί καθοδικά την γραμμή Σήματος
+R_SN=Περίοδοι πώλησης ΕΜΑ
+R_LN=Περίοδοι αγοράς ΕΜΑ
+R_IN=Περίοδοι γραμμής Σήματος
+
+[jpn]
+codepage=932
+R_Name=MACDシグナル
+R_Description=MACDがシグナルラインを上に越えた時に買いシグナルを発し、MACDがシグナルラインを下に越えた時に売りシグナルを発します。
+R_SN=短期EMAの期間
+R_LN=長期EMAの期間
+R_IN=シグナルラインの期間
+
+[por]
+codepage=1252
+R_Name=Sinais MACD
+R_Description=Sinaliza para COMPRAR quando o MACD cruza acima da linha de Sinal e VENDER quando o MACD cruza debaixo da linha de Sinal
+R_SN=Períodos de Média Móvel Exponencial Curta
+R_LN=Períodos de Média Móvel Exponencial Longa
+R_IN=Períodos de linha de sinal
+
+[deu]
+codepage=1252
+R_Name=MACD Signale
+R_Description=Zeigt KAUFEN wenn MACD ueber die Signalenlinie steigt und VERKAUFEN wenn MACD unter die Signalenlinie faellt.
+R_SN=Kurze EMA Periode
+R_LN=Lange EMA Periode
+R_IN=Periode der Signalenlinie
+
+[hun]
+codepage=0
+R_Name=MACD jelzés
+R_Description=Vételi jelzés ha az MACD alulról metszi a Szignálvonalat, Eladási jelzés ha az MACD felülről metszi a Szignálvonalat
+R_SN=Short EMA periódusok
+R_LN=Long EMA periódusok
+R_IN=Szignálvonal periódusok
+

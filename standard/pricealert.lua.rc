@@ -1,0 +1,308 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=Price Alert
+R_Description=Alerts when the price crosses and/or touches the specified price level.
+R_PeriodTypeDesc=For the non-tick timeframes, the close price at the moment of the candle closing is checked
+R_SmoothDesc=The smoothing methods marked by asterisk (*) must be downloaded from fxcodebase and installed.
+R_SmoothNo=Don't smooth
+R_SmoothN=Smoothing periods
+R_Price=Price level
+R_Condition=Condition
+R_ConditionCross=Crosses
+R_ConditionCrossOrTouch=Crosses or touches
+R_ConditionCrossAbove=Crosses above
+R_ConditionCrossAboveOrTouches=Crosses above or touches
+R_ConditionCrossBelow=Crosses below
+R_ConditionCrossBelowOrTouches=Crosses below or touches
+R_SIGNAL=Condition met.
+
+[rus]
+codepage=1251
+R_Name=Ценовой сигнал
+R_Description=Дает сигнал, когда цена пересекает и/или касается указанного уровня.
+R_PeriodTypeDesc=Для всех периодов кроме тика проверяется цена закрытия в момент закрытия периода.
+R_SmoothDesc=Методы сглаживания, помеченные звездочкой (*), необходимо загрузить с сайта fxcodebase.com и установить.
+R_SmoothNo=Без сглаживания
+R_SmoothN=Количество периодов сглаживания
+R_Price=Уровень цены
+R_Condition=Условие
+R_ConditionCross=Пересекает
+R_ConditionCrossOrTouch=Пересекает или касается
+R_ConditionCrossAbove=Пересекает снизу вверх
+R_ConditionCrossAboveOrTouches=Пересекает снизу вверх или касается
+R_ConditionCrossBelow=Пересекает сверху вниз
+R_ConditionCrossBelowOrTouches=Пересекает сверху вниз или касается
+R_SIGNAL=Условие удовлетворено.
+
+[fra]
+codepage=1252
+R_Name=Alerte de prix
+R_Description=Avertit lorsque le prix croise et/ou touche un niveau spécifique de prix
+R_PeriodTypeDesc=Pour les périodes non-ticks, le prix de clôture au moment où la bougie de clôture est vérifiée
+R_SmoothDesc=Les méthodes de lissement marquées par une astérixe(*) doivent être téléchargées et installées depuis le site fxcodebase.com
+R_SmoothNo=Ne pas lisser
+R_SmoothN=Périodes lissées
+R_Price=Le niveau de prix
+R_Condition=Condition
+R_ConditionCross=Croisements
+R_ConditionCrossOrTouch=Croise ou touche
+R_ConditionCrossAbove=Passe au dessus
+R_ConditionCrossAboveOrTouches=Passe au dessus ou touche
+R_ConditionCrossBelow=Passe en dessous
+R_ConditionCrossBelowOrTouches=Passe en dessous ou touche
+R_SIGNAL=Condition remplie
+
+[ara]
+codepage=1256
+R_Name=تنبيه السعر (Price Alert)
+R_Description=يعطي تنبيهات عندما السعر يتقاطع و/أو يلامس مستوى السعر المحدد.
+R_PeriodTypeDesc=الأطر الزمنية لغير التجزئة ، محددا السعر يقفل عند لحظة اغلاق شمعة
+R_SmoothDesc=يجب تنزيل وتحميل الطرق السلسة المؤشر عليها بعلامة النجمة (*) من خلال موقع التالي: fxcodebase.com
+R_SmoothNo=لا تجعلها سلسة
+R_SmoothN=الفترات الزمنية
+R_Price=المستوى السعر
+R_Condition=الشرط
+R_ConditionCross=يتقاطع
+R_ConditionCrossOrTouch=يتقاطع أو يلامس
+R_ConditionCrossAbove=يتقاطع فوق
+R_ConditionCrossAboveOrTouches=يتقاطع فوق أو يلامس
+R_ConditionCrossBelow=يتقاطع تحت
+R_ConditionCrossBelowOrTouches=يتقاطع تحت أو يلامس
+R_SIGNAL=تم تحقيق الشرط.
+
+[chs]
+codepage=936
+R_Name=到价提示
+R_Description=提示当价格穿越及/或触发指定的价格水平
+R_PeriodTypeDesc=对于非点线图，在蜡烛图收市的那一刻，收市价格已经被选中
+R_SmoothDesc=标记了星号(*)的平滑方法必需由fxcodebase.com网站被下载及安装
+R_SmoothNo=不需平滑
+R_SmoothN=平滑时期
+R_Price=价格水平
+R_Condition=條件
+R_ConditionCross=交差
+R_ConditionCrossOrTouch=交差或触及
+R_ConditionCrossAbove=向上穿越
+R_ConditionCrossAboveOrTouches=向上穿越或触及
+R_ConditionCrossBelow=向下穿越
+R_ConditionCrossBelowOrTouches=向下穿越及触及
+R_SIGNAL=条件符合
+
+[cht]
+codepage=950
+R_Name=到價提示
+R_Description=提示當價格穿越及/或觸發指定的價格水平
+R_PeriodTypeDesc=對於非點線圖，在蠟燭圖收市的那一刻，收市價格已經被選中
+R_SmoothDesc=標記了星號(*)的平滑方法必需由fxcodebase.com網站被下載及安裝
+R_SmoothNo=不需平滑
+R_SmoothN=平滑時期
+R_Price=價格水平
+R_Condition=條件
+R_ConditionCross=交差
+R_ConditionCrossOrTouch=交差或觸及
+R_ConditionCrossAbove=向上穿越
+R_ConditionCrossAboveOrTouches=向上穿越或觸及
+R_ConditionCrossBelow=向下穿越
+R_ConditionCrossBelowOrTouches=向下穿越及觸及
+R_SIGNAL=條件符合
+
+[esp]
+codepage=1252
+R_Name=Alerta de Precio
+R_Description=Alertas cuando el precio cruce y/o toca el nivel del precio especificado.
+R_PeriodTypeDesc=Para los periodos de tiempo fuera de Tick, el precio de cierre en el momento que la vela cierra es seleccionado
+R_SmoothDesc=Los métodos suaves marcados por un asterisco (*) deben de ser descargados desde fxcodebase e instalados
+R_SmoothNo=No suavizar
+R_SmoothN=Periodos suaves
+R_Price=Nivel de precio
+R_Condition=Condición
+R_ConditionCross=Cruces
+R_ConditionCrossOrTouch=Cruces o toque
+R_ConditionCrossAbove=Cruces por encima
+R_ConditionCrossAboveOrTouches=Cruces por encima o toques
+R_ConditionCrossBelow=Cruces por debajo
+R_ConditionCrossBelowOrTouches=Cruces por debajo o toques
+R_SIGNAL=Condición aceptada.
+
+[heb]
+codepage=1255
+R_Name=התראת מחיר
+R_Description=התראה תופעל כאשר המחיר יגיע לרמה המצוינת.
+R_PeriodTypeDesc=עבור מסגרת זמן שאינו טיק, נבדק מחיר הסגירה ברגע שננעל הנר.
+R_SmoothDesc=יש להוריד ולהתקין את שיטת החלקת המחיר המסומנת בכוכבית (*) ממאגר הקודים fxcodebase
+R_SmoothNo=אל תחליק
+R_SmoothN=תקופות החלקה
+R_Price=רמה המחיר
+R_Condition=תנאי
+R_ConditionCross=חוצה
+R_ConditionCrossOrTouch=חוצה או נוגע
+R_ConditionCrossAbove=חוצה מעל
+R_ConditionCrossAboveOrTouches=חוצה מעל או נוגע
+R_ConditionCrossBelow=חוצה מתחת
+R_ConditionCrossBelowOrTouches=חוצה מתחת או נוגע
+R_SIGNAL=התנאי התמלא.
+
+[ita]
+codepage=1252
+R_Name=Alert Prezzo
+R_Description=Alert quando il prezzo attraversa o tocca il livello prezzo specificato.
+R_PeriodTypeDesc=Per i timeframe non-tick è controllato il prezzo chiusura al momento della chiusura della candela
+R_SmoothDesc=Le metodologie smussate segnate con asterischi (*) devono essere scaricate ed installate dal sito fxcodebase.com.
+R_SmoothNo=Non smussare
+R_SmoothN=Periodi smussati
+R_Price=Il livello prezzo
+R_Condition=Condizione
+R_ConditionCross=Incroci
+R_ConditionCrossOrTouch=Incroci o contatti
+R_ConditionCrossAbove=Incroci superiori
+R_ConditionCrossAboveOrTouches=Incroci superiori o contatti
+R_ConditionCrossBelow=Incroci inferiori
+R_ConditionCrossBelowOrTouches=Incroci inferiori o contatti
+R_SIGNAL=Condizione raggiunta
+
+[pol]
+codepage=1250
+R_Name=Alert Cenowy
+R_Description=Alert występujący w momencie osiągnięcia przez rynek zdefiniowanego poziomu kursu
+R_PeriodTypeDesc=Dla przedziałów czasowych nie będących tickiem, jako bieżący kurs zamknięcia sprawdzony jest kurs zamknięcia świecy
+R_SmoothDesc=Metody wygładzania oznaczone gwiazdką (*) muszą zostać załadowane ze strony fxcodebase.com i zainstalowane.
+R_SmoothNo=Nie wygładzaj
+R_SmoothN=Okres wygładzania
+R_Price=Poziom kursu
+R_Condition=Warunki
+R_ConditionCross=Przecięcia
+R_ConditionCrossOrTouch=Przecięcia lub dotknięcia
+R_ConditionCrossAbove=Przecięcia w górę
+R_ConditionCrossAboveOrTouches=Przecięcia w górę lub dotknięcia
+R_ConditionCrossBelow=Przecięcia w dół
+R_ConditionCrossBelowOrTouches=Przecięcia w dół lub dotknięcia
+R_SIGNAL=Warunki
+
+[tur]
+codepage=1254
+R_Name=Fiyat Uyarısı
+R_Description=Fiyat, belirtilen fiyat seviyesine yaklaştığında ve/veya ulaştığında uyarı verilir.
+R_PeriodTypeDesc=Tik dışındaki zaman dilimlerinde mevcut mumun kapanış fiyatı kontrol edilmektedir.
+R_SmoothDesc=Asterisk (*) ile işaretlenmiş düzeltme yöntemleri fxcodebase’den indirilmeli ve kaydedilmelidir.
+R_SmoothNo=Düzeltme yöntemi kullanma
+R_SmoothN=Düzeltme periyotları
+R_Price=Fiyat seviyesi
+R_Condition=Durum
+R_ConditionCross=Yaklaştı
+R_ConditionCrossOrTouch=Yaklaştı ya da dokundu
+R_ConditionCrossAbove=Yukarı geçti
+R_ConditionCrossAboveOrTouches=Yukarı geçti ya da dokundu
+R_ConditionCrossBelow=Aşağı geçti
+R_ConditionCrossBelowOrTouches=Aşağı geçti ya da dokundu
+R_SIGNAL=Koşul sağlandı.
+
+[cze]
+codepage=1250
+R_Name=Cenový alert
+R_Description=Alerty, kdy cena prolomila nebo se dotkla určité cenové hladiny.
+R_PeriodTypeDesc=V ne-tickových časových rámcích je zkontrolována uzavírací cena v momentu uzavření svíčky
+R_SmoothDesc=Vyhlazovací metody označené hvězdičkou (*) musí být staženy a nainstalovány ze stránky fxcodebase.com.
+R_SmoothNo=Nevyhlazuj
+R_SmoothN=Periody vyhlazení.
+R_Price=Cenová úroveň
+R_Condition=Podmínka
+R_ConditionCross=Protíná
+R_ConditionCrossOrTouch=Protíná nebo se dotýká
+R_ConditionCrossAbove=Protíná nahoře
+R_ConditionCrossAboveOrTouches=Protíná nahoře nebo se dotýká
+R_ConditionCrossBelow=Protíná dole
+R_ConditionCrossBelowOrTouches=Protíná dole nebo se dotýká
+R_SIGNAL=Podmínka byla splněna.
+
+[gre]
+codepage=1253
+R_Name=Ειδοποίηση τιμής
+R_Description=Ειδοποίηση όταν η τιμή διασταυρώνει και/ή προσεγγίζει τη συγκεκριμένη τιμή.
+R_PeriodTypeDesc=Για τις χρονικές περιόδους εκτός tick, η τιμή κλεισίματος τη στιγμή που κλείνει το candle είναι επιλεγμένη.
+R_SmoothDesc=Οι μέθοδοι εξομάλυνσης που έχουν αστερίσκο (*) πρέπει να εγκατασταθούν από το fxcodebase.
+R_SmoothNo=Χωρίς εξομάλυνση
+R_SmoothN=Περίοδοι εξομάλυνσης
+R_Price=Το επίπεδο τιμής
+R_Condition=Κατάσταση
+R_ConditionCross=Διασταύρωση
+R_ConditionCrossOrTouch=Διασταύρωση ή προσέγγιση
+R_ConditionCrossAbove=Διασταύρωση επάνω
+R_ConditionCrossAboveOrTouches=Διασταύρωση επάνω ή προσέγγιση
+R_ConditionCrossBelow=Διασταύρωση κάτω
+R_ConditionCrossBelowOrTouches=Διασταύρωση κάτω ή προσέγγιση
+R_SIGNAL=Επιβεβαίωση συνθήκης.
+
+[jpn]
+codepage=932
+R_Name=プライスアラート
+R_Description=設定したプライスレベルに到達すると、アラートを発します。
+R_PeriodTypeDesc=チックデータ以外の時間足の場合は、終値をチェックします
+R_SmoothDesc=＊が付いているスムージングメソッドはFxcodebaseからダウンロードしてインストールします
+R_SmoothNo=非平滑化
+R_SmoothN=平滑化の期間
+R_Price=Price
+R_Condition=状態
+R_ConditionCross=クロス
+R_ConditionCrossOrTouch=クロスもしくはタッチ
+R_ConditionCrossAbove=上抜け
+R_ConditionCrossAboveOrTouches=上抜けもしくはタッチ
+R_ConditionCrossBelow=下抜け
+R_ConditionCrossBelowOrTouches=下抜けもしくはタッチ
+R_SIGNAL=条件は一致しました
+
+[por]
+codepage=1252
+R_Name=Alerta de Preço
+R_Description=Alerta quando o preço cruza e/ou e toca o preço especificado.
+R_PeriodTypeDesc=Para os periodos de tempo não tick, o preço de fecho no momento de encerramento da vela está selecionado
+R_SmoothDesc=Os métodos de nivelação marcados com um asterisco (*) devem ser carregados do site fxcodebase.com e instalados.
+R_SmoothNo=Não nivelar
+R_SmoothN=Períodos de nivelação
+R_Price=O preço
+R_Condition=Condição
+R_ConditionCross=Cruzamentos
+R_ConditionCrossOrTouch=Cruzamentos ou toques
+R_ConditionCrossAbove=Cruzar por cima
+R_ConditionCrossAboveOrTouches=Cruzar por cima ou tocar
+R_ConditionCrossBelow=Cruzar por baixo
+R_ConditionCrossBelowOrTouches=Cruzar por baixo ou tocar
+R_SIGNAL=Condição satisfeita.
+
+[deu]
+codepage=1252
+R_Name=Preis Alarm
+R_Description=Warnt wenn der Preis das spezifische Preislevel durchkreuzt und/ oder berührt.
+R_PeriodTypeDesc=Für die Nicht-Tick Zeiträume zählt der Schlusskurs zum Zeitpunkt der Schliessung der Kerze
+R_SmoothDesc=Die Glatten Methoden welche mit einem Sternchen markiert sind müssen von der fxcodebase.com Webseite heruntergeladen und installiert werden.
+R_SmoothNo=Nicht glätten
+R_SmoothN=Glättende Zeitintervalle
+R_Price=Das Preislevel
+R_Condition=Bedingung
+R_ConditionCross=Kreuzt
+R_ConditionCrossOrTouch=Kreuzt oder berührt
+R_ConditionCrossAbove=Kreuzt über
+R_ConditionCrossAboveOrTouches=Kreuzt über oder berührt
+R_ConditionCrossBelow=Kreuzt unter
+R_ConditionCrossBelowOrTouches=Kreuzt unter oder berührt
+R_SIGNAL=Bedingung erfüllt
+
+[hun]
+codepage=0
+R_Name=Riasztás
+R_Description=Riasztás amikor az árfolyam metszi vagy érinti a megadott szinteket.
+R_PeriodTypeDesc=A nem tick idősíkú grafikonok esetében a gyertyák záró árának ellenőrzése a gyertya zárásakor.
+R_SmoothDesc=Az Asterisk(*) simítási metódust le kell tölteni az FXCodeBase honlapjáról és telepíteni kell.
+R_SmoothNo=Ne használjon simítási eljárást.
+R_SmoothN=Simítási periódusok száma
+R_Price=Árfolyam szint
+R_Condition=Feltétel:
+R_ConditionCross=Keresztezések
+R_ConditionCrossOrTouch=Keresztezések vagy érintések
+R_ConditionCrossAbove=Alulról metszés 
+R_ConditionCrossAboveOrTouches=Alulról metszés vagy érintés
+R_ConditionCrossBelow=Felülről metszés
+R_ConditionCrossBelowOrTouches=Felülről metszés vagy érintés
+R_SIGNAL=Feltétel teljesült
+

@@ -1,0 +1,172 @@
+﻿include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+R_Name=Watch for Order
+R_Description=Monitors the specifed order and triggers an alert when the order is executed.
+R_Order=Choose order
+R_MSG=Order is executed
+R_MSG_REMOVED=Order is removed from Orders table
+R_POSITION_OPENED=Position is opened
+R_POSITION_CLOSED=Position is closed
+
+[rus]
+codepage=1251
+R_Name=Отслеживание ордера
+R_Description=Отслеживает указанный ордер и дает сигнал, когда этот ордер исполняется.
+R_Order=Выберите ордер
+R_MSG=Ордер исполнен
+R_MSG_REMOVED=Ордер удален из таблицы "Ордеры"
+R_POSITION_OPENED=Открыта позиция
+R_POSITION_CLOSED=Закрыта позиция
+
+[ara]
+codepage=1256
+R_Name=مراقبة أمر الدخول (Watch for Order)
+R_Description=يراقب أمر الدخول الذي تحدده ويعطي تنبيهاً عندما يتم تنفيذ الأمر
+R_Order=اختيار الأمر
+R_MSG=الأمر تم تنفيذه
+R_MSG_REMOVED=تم حذف الأمر من قائمة الأوامر
+R_POSITION_OPENED=تم فتح المركز
+R_POSITION_CLOSED=تم إغلاق المركز
+
+[chs]
+codepage=936
+R_Name=监察挂单交易
+R_Description=监察当指定挂单交易被执行及触发提示
+R_Order=选择交易
+R_MSG=交易已執行
+R_MSG_REMOVED=交易已由交易表移除
+R_POSITION_OPENED=仓位已开
+R_POSITION_CLOSED=仓位已平
+
+[cht]
+codepage=950
+R_Name=監察掛單交易
+R_Description=監察當指定掛單交易被執行及觸發提示
+R_Order=選擇交易
+R_MSG=交易已執行
+R_MSG_REMOVED=交易已由交易表移除
+R_POSITION_OPENED=倉位已開
+R_POSITION_CLOSED=倉位已平
+
+[cze]
+codepage=1250
+R_Name=Sleduj pokyn
+R_Description=Monitoruje konkrétní obchod a spouští alert, když je obchod uzavřen.
+R_Order=Zvolit pokyn
+R_MSG=Pokyn je vypořádán
+R_MSG_REMOVED=Pokyn je odstraněn z okna Pokyny
+R_POSITION_OPENED=Pozice je otevřena
+R_POSITION_CLOSED=Pozice je uzavřena
+
+[esp]
+codepage=1252
+R_Name=Alerta para futura operación
+R_Description=Monitorea la orden especificada y genera alertas cuando la orden es ejecutada.
+R_Order=Seleccionar orden
+R_MSG=Orden ejecutada
+R_MSG_REMOVED=La orden ha sido retirada del cuadro de órdenes
+R_POSITION_OPENED=Posición abierta
+R_POSITION_CLOSED=Posición cerrada
+
+[fra]
+codepage=1252
+R_Name=Surveiller pour ordre
+R_Description=Suit l'ordre spécifié et déclenche une alerte lorsque l'ordre est exécuté
+R_Order=Choisir ordre
+R_MSG=L'ordre est exécuté
+R_MSG_REMOVED=L'ordre est retiré du tableau es ordres
+R_POSITION_OPENED=La position est ouverte
+R_POSITION_CLOSED=La position est fermée
+
+[gre]
+codepage=1253
+R_Name=Παρακολούθηση εντολής
+R_Description=Παρακολουθεί τη συγκεκριμένη εντολή και ενεργοποιεί μία ειδοποίηση όταν η εντολή πραγματοποιηθεί.
+R_Order=Επιλογή εντολής
+R_MSG=Η εντολή εκτελέστηκε
+R_MSG_REMOVED=Η εντολή αφαιρέθηκε από το παράθυρο Εντολών
+R_POSITION_OPENED=Η θέση έχει ανοίξει
+R_POSITION_CLOSED=Η θέση έχει κλείσει
+
+[pol]
+codepage=1250
+R_Name=Watch for Order
+R_Description=Monitors the specifed order and triggers an alert when the order is executed.
+R_Order=Wybierz zlecenie
+R_MSG=Zlecenie jest wykonane
+R_MSG_REMOVED=Zlecenie jest usuwane z tabeli zleceń
+R_POSITION_OPENED=Pozycja jest otwarta
+R_POSITION_CLOSED=Pozycja jest zamknięta
+
+[por]
+codepage=1252
+R_Name=Vigiar Ordem
+R_Description=Monitora a ordem especificada e ativa uma alerta quando a ordem é executada.
+R_Order=Escolher ordem
+R_MSG=Ordem foi executada
+R_MSG_REMOVED=Ordem foi retirada da tabela de Ordens
+R_POSITION_OPENED=A posição está aberta
+R_POSITION_CLOSED=A posição está fechada
+
+[tur]
+codepage=1254
+R_Name=Emri İzle
+R_Description=Belirtilen emri izler ve emir gerçekleştiğinde uyarı verilir.
+R_Order=Emir seç
+R_MSG=Emir gerçekleştirildi.
+R_MSG_REMOVED=Emir, Emirler tablosundan kaldırıldı
+R_POSITION_OPENED=Pozisyon açıldı
+R_POSITION_CLOSED=Pozisyon kapatıldı
+
+[ita]
+codepage=1252
+R_Name=Osserva Ordine
+R_Description=Osserva l'ordine specificato e attiva un alert quando l'ordine è eseguito.
+R_Order=Scegli ordine
+R_MSG=Ordine eseguito
+R_MSG_REMOVED=Ordine rimosso dalla Tavola ordini
+R_POSITION_OPENED=Posizione aperta
+R_POSITION_CLOSED=Posizione chiusa
+
+[heb]
+codepage=1255
+R_Name=עקוב אחר הוראה
+R_Description=עוקב אחר הוראה ושולח התראה כאשר היא מתממשת.
+R_Order=בחר הוראה
+R_MSG=ההוראה התממשה
+R_MSG_REMOVED=ההוראה הוסרה מטבלת ההוראות
+R_POSITION_OPENED=הפוזיציה נפתחה
+R_POSITION_CLOSED=הפוזיציה נסגרה
+
+[deu]
+codepage=1252
+R_Name=Achten Sie auf die Order
+R_Description=Überwacht die vorgegebene Order und löst einen Alarm aus wenn die Order ausgeführt ist.
+R_Order=Order auswählen
+R_MSG=Order wurde ausgeführt
+R_MSG_REMOVED=Order ist vom Orderbuch entfernt worden
+R_POSITION_OPENED=Position wurde eröffnet
+R_POSITION_CLOSED=Position wurde geschlossen
+
+[jpn]
+codepage=932
+R_Name=ウォッチ・オーダー
+R_Description=指定したオーダーをモニターし、約定したらアラートを発します。
+R_Order=取引の選択
+R_MSG=注文は執行されました
+R_MSG_REMOVED=注文はキャンセルされました
+R_POSITION_OPENED=ポジションが発生しました
+R_POSITION_CLOSED=ポジションが決済されました
+
+[hun]
+codepage=0
+R_Name=Megbízások figyelése
+R_Description=Figyeli a meghatározott megbízást és riaszt ha az végrehajtódik.
+R_Order=Válasszon megbízást
+R_MSG=Megbízás végrehajtva
+R_MSG_REMOVED=A megbízás kikerül a Megbízások táblázatból
+R_POSITION_OPENED=A pozíciót megnyitottuk
+R_POSITION_CLOSED=A pozíciót lezártuk
+
